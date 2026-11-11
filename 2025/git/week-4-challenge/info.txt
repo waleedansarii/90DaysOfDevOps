@@ -1,2 +1,2 @@
-Hello, this is Waleed! I am a DevOps Engineer. I have strong foundation in Linux, K8s, AWS.
+Hello, this is Waleed! I am a DevOps Engineer. I have strong foundation in Linux, K8s, AWS, Github Actions.
 
