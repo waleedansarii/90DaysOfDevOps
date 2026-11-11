@@ -1,2 +1,2 @@
-Hello, this is Waleed! I am a DevOps Engineer.
+Hello, this is Waleed! I am a DevOps Engineer. I have strong foundation in Linux, K8s, Terraform.
 
